@@ -3,6 +3,15 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Ignore model files
+*.h5
+
+# Ignore zip files
+*.zip
+
+# Ignore dataset folder
+6_deep_learning/CNN/cats_and_dogs_filtered/
+
 # C extensions
 *.so
 
